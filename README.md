@@ -2,7 +2,7 @@
 
 ### A Reference Application
 
-![BlueJeans](C:/Users/glenn/Documents/GitHub/sdk-webrtc-meetings/media/927.png)
+![BlueJeans](./media/927.png)
 
 
 
