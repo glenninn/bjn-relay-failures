@@ -50,8 +50,8 @@ The application will connect to BlueJeans and Relay, then produce an output simi
 
 ```shell
 C:\1. temp\fanatics>node index.js
-Retrieved a BlueJeans Access Token: 4d8ba69c12c34d7cab05f3d46c2220c3
-Converted to Relay token: 43gkhuhciq4pon2rrp5g59vpti5ln01a
+Retrieved a BlueJeans Access Token: 4d8ba69c12....d46c2220c3
+Converted to Relay token: 43gkhuhciq4p....59vpti5ln01a
 Retrieved Failures from Relay: {
   "id": "595d0d1de4b0fe8b9bdd0aeb",
   "subjectClass": "ListenerService",
